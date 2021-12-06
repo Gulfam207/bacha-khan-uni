@@ -1,0 +1,38 @@
+.navbar{
+    border: 1px solid red;
+}
+
+
+.dropdown{
+    justify-content: space-between;
+    padding-left: 10px;
+}
+
+
+
+#carouselExampleControls img{
+height: 500px; 
+
+}
+#carouselExampleControls{
+    padding-top: 40px;
+
+}
+
+
+
+@media (min-width: 768px){
+.navbar {
+    border-radius: 4px;
+
+
+}}
+
+.panel{
+    border: 1px solid red;
+    width: 525px;
+    float: right;
+    margin-top: -453px;
+    height: 380px;
+    margin-right: 62px;
+}
